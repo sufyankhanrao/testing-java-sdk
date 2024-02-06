@@ -8,7 +8,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>io.github.sufyankhanrao</groupId>
   <artifactId>apimatic-calculator-sdk</artifactId>
-  <version>2.0.0</version>
+  <version>2.0.1</version>
   <packaging>jar</packaging>
   <name>CalculatorSDK</name>
   <description>A Sample Calculator SDK behaving as a Rest API client in order to get your calculation job done.</description>
